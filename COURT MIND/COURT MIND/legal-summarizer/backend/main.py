@@ -17,7 +17,7 @@ import tempfile
 # 1️⃣ LOCAL CONFIGURATION
 # ============================================================
 cred_path = r"C:\Users\kavya\Downloads\firebase-key.json"
-gemini_key = "AIzaSyA_a7h3lQDZAGoy0IQrWUkKrTIiRCjThDg"  # Replace with your valid Gemini API key
+gemini_key = "" # Replace with your valid Gemini API key 
 
 # ============================================================
 # 2️⃣ FIREBASE INITIALIZATION (Firestore + Auth)
