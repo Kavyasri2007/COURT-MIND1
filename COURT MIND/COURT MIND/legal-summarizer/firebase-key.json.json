@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "eudia-legalsummarizer",
+  "private_key_id": "4186cc23c997abe7a120b7c8412351b0e6015be6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsJ4W1hMrLDU2Q\nZuxiFuJ1Ov8F5r3XDOUVXJTEwOkKHsdufHu45JgjBA8pXcXPbyWPZb3SKNyD0uJ5\n/IcH4iJdald5O81KdrFTz5rVHdb0Pj/BHU1e/voMHCG/39gm6EUG2Coegzxb0S6L\n3SztphK1+dc9wMQ998k6TxUMVdfkfjz6lY/vloyjnkqH3TInUonJbt7aq3PNT3Uw\n5k3W1Z4v/3hqtfDsRMBAfiyg5BZiAlpCGD3NRvIXbtoYhJwYq7yX5RzIdkOI2izx\nhCb1ehsGW5+E0h6DcAVpicqCvQ+1a3C+a6TeANOCaMl6UaKi19J6fK+KohI5EA/Q\nQO6XwbMlAgMBAAECggEAQC9qHD/a5jLbCOw+1OGIZEHvRFF/1TajEMBYXTU5jcLl\nA04ZSNm92UxRpNAoCMt9WwYJbFo8wU92jhm3dJp8yoxz+ajwxQMU4VUlerDp7F1r\nIsKcjr8NFkfE04ePTQ5Lch5VMdQnRGps6su3TRGep0dz1zvQTvRcC8fhZpx45mEH\n4gi7JWmXa3hb6H7EBMdJIE948V5Gz9gU/YYZO6JMh3r7jrN1n2tJ4PVTpCjXR3xA\noDMdWIYZHE1Oeip/Oze/EVP2MHUoux1IioHhl/KkJQ7EKjhRE084jvo0RvnQRa7f\n5Dknf0LjtyukmDuzas/JzTdEG2vgvEbN7pP77l2c/wKBgQDfBMHb6Bn4x2OK4kOv\nglaSmlHtf1Mt+8uN1D7pOolID7hTBWbbAMl0hkQvJSjGwKuKBQhYTWHiwltKXx/8\n4cPJBIclFjwFw4sRCGkGFTeXyhMUriYetXKTfbck9qdgNbBHzJ7/HNUrjRY/JSJn\n2itt/Xa9V3wGbnw5JDtn6g9Y2wKBgQDFnRn0bgcVy5V4W5PxEPT3ymrs9UlB32Ce\ndkDjgWHpfhQJ9w3c68qn6BplUNAZGW0QvZi1s72g2oByIzChhbwzqaFfAAqsfRtQ\nfH3o34DFa/m+GO21M7E57hlNAm/jy30ZRRn5z/XB6L8MOk7Tn0AfRFDZEvKfk/9I\nfBcZ5Grj/wKBgAWYLPTDQcOH3Oti+aexcVKEJIH8q61/n3+TT3CyUzdHjawneokL\n4AHYTGWSXQ9/Tc5MigUNC+OQVJHtCPRjBXJJdsprYF4UpaxrtZa9eYOJQilGpRYo\nHxOsF6gJt/El56Ilc+eaZY6OH3y+BbrtMiG0NgJR636Nzvfv/L2ClZf5AoGAA58S\nZ7FQfezCK3d6KZPG+XeDKB6CnitqyNyf6ctoMPA3i8s0PNUxXIxbV3n4pk0Z+5GN\n596IXhdC/VR5wqwBu+yi4WvNxkVwp7PwVsEpyfRlmj84s/ZjjA0593hQ9pq3CyyC\nAlr2RPxv69hxs10avrfwx1maiqQarIhhn/7Ymp8CgYEA0CWMQF/Rg1567K07+Z+k\n+7q8JIwZeLmYKnVCtlpou+Gq12czQJUyJb/udUeGQt6ph2AKqrY+ErNi28pXD8Qw\nY2nZxRLGe7EuD5JUjbvTg+vvzBMaWNH+r1riJHXmyxEwLnstrkgLg8Om9eLf+3i7\nqMxlislFkA3noVjyOVwbPRU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@eudia-legalsummarizer.iam.gserviceaccount.com",
+  "client_id": "106349323455400513947",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40eudia-legalsummarizer.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
