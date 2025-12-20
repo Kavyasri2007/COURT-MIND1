@@ -49,3 +49,28 @@ streamlit run app.py
 
 #
 Add your Firebase credentials, Gemini API key, and .env variables before running.
+# Application Workflow
+
+User signs up / logs in (Firebase Auth)
+
+Uploads legal documents
+
+Frontend sends files + token to backend
+
+Backend:
+
+Verifies Firebase token
+
+Extracts PDF text
+
+Summarizes using Gemini
+
+Extracts dates, sections, timeline
+
+Detects case status
+
+Generates recommendations
+
+Results are displayed in an interactive UI
+
+Data is stored securely in Firestore
