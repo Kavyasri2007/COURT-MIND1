@@ -4,6 +4,7 @@ Eudia is an AI-powered web application that helps legal professionals quickly un
 
 # Features
 Secure login using Firebase Authentication
+
 Upload and summarize multiple legal PDFs
 AI-powered legal summarization using Google Gemini
  
