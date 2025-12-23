@@ -1,6 +1,6 @@
 # COURT MIND – Legal Document Summarizer
 
-Eudia is an AI-powered web application that helps legal professionals quickly understand complex legal documents. Users can securely upload legal PDFs and receive structured summaries, case status insights, timelines, and actionable recommendations.
+Eudia is an AI-powered Web Application that helps legal professionals quickly understand complex legal documents. Users can securely upload legal PDFs and receive structured summaries, case status insights, timelines, and actionable recommendations.
 
 # Features
 Secure login using Firebase Authentication
